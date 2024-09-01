@@ -1,7 +1,5 @@
 # LankaBot - GPT-4 ChatBot using Streamlit
 
-![LankaBot Screenshot](path-to-your-screenshot)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
